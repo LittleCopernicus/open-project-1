@@ -36,3 +36,9 @@ add 3
 Add 1
 Add 4
 add fx 
+
+add x
+add y
+add z
+
+
